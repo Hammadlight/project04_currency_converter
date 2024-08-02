@@ -3,7 +3,7 @@ import inquirer from "inquirer";
 import chalk from "chalk";
 // Print welcome message
 console.log(chalk.bold.rgb(204, 204, 204)(`\n  \t\t <<<============================================>>>`));
-console.log(chalk.bold.rgb(204, 204, 204)(`<<<==========>>>  ${chalk.bold.hex('#9999FF')('Welcome To \'Jawaria Exchange Service\' - Currency Converter')}  <<<===========>>>`));
+console.log(chalk.bold.rgb(204, 204, 204)(`<<<==========>>>  ${chalk.bold.hex('#9999FF')('Welcome To \'Hammad Exchange Service\' - Currency Converter')}  <<<===========>>>`));
 console.log(chalk.bold.rgb(204, 204, 204)(`\t\t <<<============================================>>>\n`));
 // Define the list of currencies and their exchange rates
 let exchange_rate = {
